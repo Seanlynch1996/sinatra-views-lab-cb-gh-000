@@ -14,5 +14,5 @@ class App < Sinatra::Base
 		erb :goodbye
 	end
 
-	
+
 end
